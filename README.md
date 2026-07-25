@@ -1,10 +1,6 @@
 <h1 align="center">Hey, I'm Dulash Priyashan 👋</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<!-- Flex Container for Icons -->
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 400px; margin: 0 auto;">
-  </div>
-</div>
 
 <br/>
 
