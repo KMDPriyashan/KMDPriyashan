@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer;UI%2FUX+Designer;Experienced+Mobile+App+Developer;Full+Stack+Developer" alt="Typing SVG" />
 </h3>
 
-<p>m Dulash Priyashan, an ICT undergraduate passionate about full-stack and mobile app development. I love building digital solutions from the ground up—whether it's crafting smooth mobile experiences or designing robust back-end systems. Always learning, always building.</p>
+<p>I'm Dulash Priyashan, an ICT undergraduate passionate about full-stack and mobile app development. I love building digital solutions from the ground up—whether it's crafting smooth mobile experiences or designing robust back-end systems. Always learning, always building.</p>
 
 <br/>
 
