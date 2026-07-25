@@ -1,9 +1,6 @@
 <h1 align="center">Hey, I'm Dulash Priyashan 👋</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-
-<br/>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dulash2003&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
 </p>
