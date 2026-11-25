@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,ts,mongodb,nextjs,express,postgres,python,git,docker,figma&theme=dark&perline=11" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,ts,mongodb,nextjs,express,postgres,python,git,docker,figma,spring,idea&theme=dark&perline=13" alt="Tech Stack" />
 
 </div>
 
